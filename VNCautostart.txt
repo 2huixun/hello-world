@@ -1,0 +1,14 @@
+login by sss
+cd /home/pi
+cd .config
+mkdir autostart
+nano tightvnc.destop
+  type in following content
+  
+  [Desktop Entry]
+  Type=Application
+  Name=TightVNC
+  Exec=vncserver :1
+  StartupNotify=false
+  
+Save and reboot

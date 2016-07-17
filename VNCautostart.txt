@@ -12,3 +12,4 @@ nano tightvnc.destop
   StartupNotify=false
   
 Save and reboot
+// not work ?

@@ -13,3 +13,4 @@ nano tightvnc.destop
   
 Save and reboot
 // not work ?
+//改了些东西，可以使用，但是后来CPU特别高。取消掉
